@@ -2,6 +2,6 @@
         ABOUT ME 🧘🏻
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=blender,unreal,threejs,js" />
+    <img src="https://skillicons.dev/icons?i=blender,unreal,threejs,js,react" />
   </a>
 </p>
