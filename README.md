@@ -27,9 +27,6 @@ Here are some of the technologies I work with:
 - **Databases:** MySQL, Supabase
 - **Design/Rendering Tools:** Blender, Substance Painter, Spark AR Studio
 
-## GitHub Stats
-
-![yomero243's GitHub stats](https://github-readme-stats.vercel.app/api?username=yomero243&show_icons=true&theme=radical)
 
 ## Let's Connect
 
