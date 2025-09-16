@@ -24,7 +24,7 @@ Here are some of the technologies I work with:
 - **Languages:** Python, JavaScript, HTML, CSS
 - **Frameworks/Libraries:** React, Vite, Three.js, WebGL
 - **Tools:** Git, VS Code, Unreal Engine, Blender
-- **Databases:** MySQL, Supabase
+- **Databases:** Postgresql, Supabase
 - **Design/Rendering Tools:** Blender, Substance Painter, Spark AR Studio
 
 
