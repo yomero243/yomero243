@@ -1,5 +1,5 @@
 
-        							ABOUT ME 🧘🏻
+        						                	ABOUT ME 🧘🏻
         	       
 <p align="center">
   <a href="https://skillicons.dev">
