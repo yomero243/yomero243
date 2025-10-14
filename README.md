@@ -6,13 +6,14 @@
     <img src="https://skillicons.dev/icons?i=aws,blender,unreal,threejs,js,react,docker" />
   </a>
 </p>			
- # Hi there, I'm  Gabriel Cerdio OR	yomero243 👋
+ # Hi there, I'm  Gabriel Cerdio OR	"yomero243" 👋
 
-Welcome to my GitHub profile! I'm a passionate developer, 3D artist, and architect always eager to learn new technologies and contribute to exciting projects.
+Welcome to my GitHub profile! 
+I'm a passionate developer, 3D artist, and architect always eager to learn new technologies and contribute projects.
 
 ## About Me
 
-- 🌱 I’m currently learning C++, OpenGL, WebGL, and Three.js.
+- 🌱 I’m currently learning C++, Go, WebGL, and Three.js.
 - 👯 I’m looking to collaborate on open-source projects that combine web development with 3D, whether for websites or video games.
 - 💬 Ask me about web development, 3D rendering, Unreal Engine, Blender, and React.
 
@@ -21,12 +22,12 @@ Welcome to my GitHub profile! I'm a passionate developer, 3D artist, and archite
 
 Here are some of the technologies I work with:
 
-- **Languages:** Python, JavaScript, HTML, CSS
+- **Languages:** Python, JavaScript, HTML, CSS , typescript
 - **Frameworks/Libraries:** React, Vite, Three.js, WebGL
 - **Tools:** Git, VS Code, Unreal Engine, Blender
 - **Databases:** Postgresql, Supabase
-- **Design/Rendering Tools:** Blender, Substance Painter, Spark AR Studio
-
+- **Design/Rendering Tools:** Blender, Substance Painter, Comfy UI
+- **Cloud:** AWS
 
 ## Let's Connect
 
