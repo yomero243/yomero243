@@ -11,23 +11,21 @@
 Welcome to my GitHub profile! 
 I'm a passionate developer, 3D artist, and architect always eager to learn new technologies and contribute projects.
 
-## About Me
-
-- 🌱 I’m currently learning C++, Go, WebGL, and Three.js.
+- 🌱 I’m currently learning  Go, WebGL, and Three.js.
 - 👯 I’m looking to collaborate on open-source projects that combine web development with 3D, whether for websites or video games.
 - 💬 Ask me about web development, 3D rendering, Unreal Engine, Blender, and React.
 
 
-## Tech Stack
 
-Here are some of the technologies I work with:
 
-- **Languages:** Python, JavaScript, HTML, CSS , typescript
-- **Frameworks/Libraries:** React, Vite, Three.js, WebGL
-- **Tools:** Git, VS Code, Unreal Engine, Blender
-- **Databases:** Postgresql, Supabase
-- **Design/Rendering Tools:** Blender, Substance Painter, Comfy UI
-- **Cloud:** AWS
+# Tech Stack
+
+- **Languages:** TypeScript, JavaScript (ES6+), Python, GLSL, HTML5, CSS3
+- **Frontend & Creative Web:** React, Three.js, React Three Fiber, WebGL
+- **3D Engineering & Generative:** Unreal Engine 5, Blender, Substance Painter, ComfyUI
+- **Backend & Data:** Supabase, PostgreSQL
+- **Cloud & Infrastructure:** AWS, Vercel
+- **Build Tools & Environment:** Vite, Git, VS Code
 
 ## Let's Connect
 
