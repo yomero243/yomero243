@@ -11,21 +11,28 @@
 Welcome to my GitHub profile! 
 I'm a passionate developer, 3D artist, and architect always eager to learn new technologies and contribute projects.
 
-- 🌱 I’m currently learning  Go, WebGL, and Three.js.
-- 👯 I’m looking to collaborate on open-source projects that combine web development with 3D, whether for websites or video games.
-- 💬 Ask me about web development, 3D rendering, Unreal Engine, Blender, and React.
+- 🌱 Currently: AI DevOps — agent orchestration, RAG pipelines, and private-VPC deployments on AWS/GCP/Oracle.
+- 🔭 Long game: agent-driven 3D content pipelines that hold up in production, not just in a demo.
+- 💬 Ask me about MCP servers, WebGPU/TSL, Three.js internals, visual QA for 3D, or shipping TypeScript at scale.
+
+## 🤖 AI Ops & Agent Tooling
+- **Agent infrastructure:** MCP server authoring, agent gateways, tool pipelines, multi-agent workflows
+- **AI pipelines:** RAG, embeddings, ComfyUI, Gaussian Splatting, generative asset workflows
+- **Evaluation:** rubric-based scoring harnesses, automated visual QA for generated 3D scenes
+- **Cloud & Infra:** AWS (EC2, S3, IAM, Lambda, VPC), Oracle, Docker, CI/CD
+
+## 🌐 Real-Time 3D on the Web
+- **Core:** Three.js, React Three Fiber, **WebGPU + TSL**, WebXR, GLSL
+- **Systems:** multiplayer 3D over WebSockets, gRPC service boundaries, Redpanda/Kafka for agent event streams, realtime collaboration.
 
 
+## 🧱 Full-Stack Engineering
+- **Languages:** TypeScript, JavaScript (ES6+), Python, GLSL, 
+- **Frontend:** React, RxJS, Zustand, Vite, TailwindCSS
+- **Backend & Data:** Node.js, Express, PostgreSQL, Supabase (RLS), GraphQL, REST
+- **Testing:** Playwright, Jest, Vitest, React Testing Library
 
 
-# Tech Stack
-
-- **Languages:** TypeScript, JavaScript (ES6+), Python, GLSL, HTML5, CSS3
-- **Frontend & Creative Web:** React, Three.js, React Three Fiber, WebGL
-- **3D Engineering & Generative:** Unreal Engine 5, Blender, Substance Painter, ComfyUI
-- **Backend & Data:** Supabase, PostgreSQL
-- **Cloud & Infrastructure:** AWS, Vercel
-- **Build Tools & Environment:** Vite, Git, VS Code
 
 ## Let's Connect
 
