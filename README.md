@@ -16,8 +16,8 @@ I'm a passionate developer, 3D artist, and architect always eager to learn new t
 - 💬 Ask me about: MCP servers, WebGPU/TSL, Three.js internals, visual QA for 3D, or shipping TypeScript at scale.
 
 ##  AI Ops & Agent Tooling
-- **Agent infrastructure:** MCP server authoring, agent gateways, tool pipelines, multi-agent workflows
-- **AI pipelines:** RAG, embeddings, ComfyUI, Gaussian Splatting, generative asset workflows
+- **Agent infrastructure:** MCP server authoring, agent gateways, tool pipelines(langchain/graph), multi-agent workflows
+- **AI pipelines:** RAG, embeddings, ComfyUI, generative asset workflows
 - **Evaluation:** rubric-based scoring harnesses, automated visual QA for generated 3D scenes
 - **Cloud & Infra:** AWS (EC2, S3, IAM, Lambda, VPC), Oracle, Docker, CI/CD
 
