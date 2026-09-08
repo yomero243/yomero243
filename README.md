@@ -13,20 +13,20 @@ I'm a passionate developer, 3D artist, and architect always eager to learn new t
 
 - 🌱 Currently: AI DevOps — agent orchestration, RAG pipelines, and private-VPC deployments on AWS/GCP/Oracle.
 - 🔭 Long game: agent-driven 3D content pipelines that hold up in production, not just in a demo.
-- 💬 Ask me about MCP servers, WebGPU/TSL, Three.js internals, visual QA for 3D, or shipping TypeScript at scale.
+- 💬 Ask me about: MCP servers, WebGPU/TSL, Three.js internals, visual QA for 3D, or shipping TypeScript at scale.
 
-## 🤖 AI Ops & Agent Tooling
+##  AI Ops & Agent Tooling
 - **Agent infrastructure:** MCP server authoring, agent gateways, tool pipelines, multi-agent workflows
 - **AI pipelines:** RAG, embeddings, ComfyUI, Gaussian Splatting, generative asset workflows
 - **Evaluation:** rubric-based scoring harnesses, automated visual QA for generated 3D scenes
 - **Cloud & Infra:** AWS (EC2, S3, IAM, Lambda, VPC), Oracle, Docker, CI/CD
 
-## 🌐 Real-Time 3D on the Web
+## Real-Time 3D on the Web
 - **Core:** Three.js, React Three Fiber, **WebGPU + TSL**, WebXR, GLSL
 - **Systems:** multiplayer 3D over WebSockets, gRPC service boundaries, Redpanda/Kafka for agent event streams, realtime collaboration.
 
 
-## 🧱 Full-Stack Engineering
+## Full-Stack Engineering
 - **Languages:** TypeScript, JavaScript (ES6+), Python, GLSL, 
 - **Frontend:** React, RxJS, Zustand, Vite, TailwindCSS
 - **Backend & Data:** Node.js, Express, PostgreSQL, Supabase (RLS), GraphQL, REST
@@ -41,6 +41,6 @@ I'm a passionate developer, 3D artist, and architect always eager to learn new t
 - [ArtStation](https://www.artstation.com/yomero243)
 
 
-Thanks for visiting my profile! Have a great day! 😊
+Thanks for visiting my profile! Have a great day! 
 
 
